@@ -5,5 +5,12 @@ def add(a, b):
 def subtract(a, b):
     return a-b
 
+<<<<<<< HEAD
 def divide(a, b):
+=======
+def multiply(a, b):
+    return a*b
+
+def divide(a, b):  
+>>>>>>> main
     return a/b
